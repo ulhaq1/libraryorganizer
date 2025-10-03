@@ -1,0 +1,1 @@
+# Library Organizer\nSimple Tkinter+JSON library app.\nRun: `python library_main.py`.\nRun tests: `python -m unittest discover`.
