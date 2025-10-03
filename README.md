@@ -17,7 +17,11 @@ Library Organizer built with Python Tkinter and JSON backend to manage and searc
 
 ## 🖥️ GUI Preview
 Run the app to open the Tkinter GUI:
+<<<<<<< HEAD
 
+=======
+![Library Window](screenshot.jpg)
+>>>>>>> aad55c6017e99559ec1844c9c28cbfdbc9d672de
 
 
 ```bash
@@ -118,3 +122,7 @@ This project is licensed under the [MIT License](LICENSE).
 You are free to use and modify it.
 
 ---
+<<<<<<< HEAD
+=======
+
+>>>>>>> aad55c6017e99559ec1844c9c28cbfdbc9d672de
