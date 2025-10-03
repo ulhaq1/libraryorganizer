@@ -22,8 +22,6 @@ Run the app to open the Tkinter GUI:
 python library_main.py
 ````
 
-*(Tip: Add a screenshot here on GitHub to show the interface)*
-
 ---
 
 ## 🛠️ Installation & Setup
