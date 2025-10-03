@@ -17,6 +17,8 @@ Library Organizer built with Python Tkinter and JSON backend to manage and searc
 
 ## 🖥️ GUI Preview
 Run the app to open the Tkinter GUI:
+![Library Window](screenshot.jpg)
+
 
 ```bash
 python library_main.py
